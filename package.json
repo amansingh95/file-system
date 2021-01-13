@@ -1,0 +1,17 @@
+{
+  "name": "files-system-node",
+  "version": "1.0.0",
+  "description": "working with file system in node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amansingh",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^5.3.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "path": "^0.12.7"
+  }
+}
